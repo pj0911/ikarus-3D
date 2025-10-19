@@ -2,6 +2,8 @@ A sleek and powerful React-based design playground that lets you edit text, adju
 
 Built using React, Tailwind CSS, and Framer Motion, this project demonstrates clean design systems, smooth animations, and real-time state control.
 
+Live Demo-(https://ikarus-3-d-one.vercel.app/)
+
 🚀 Features
 
 ✨ Live Design Editor
